@@ -1,0 +1,12 @@
+.my-watch{
+    top: 35%;
+    left: 34%;
+    position: fixed;
+    background-color: aliceblue;
+    padding: 50px;
+    border-radius: 5px;
+}
+
+span{
+    font-size: 50px;
+}
